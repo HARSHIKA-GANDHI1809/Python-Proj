@@ -13,6 +13,6 @@ A sleek, real-time Digital Clock built using Python and the Tkinter library. Thi
    ```bash
    git clone [https://github.com/HARSHIKA-GANDHI1809/Python-Proj.git](https://github.com/HARSHIKA-GANDHI1809/Python-Proj.git)
 2.Navigate
-   cd Python-Proj
-3.Usage
+     cd Python-Proj
+ 3.Usage
    python clock.py
