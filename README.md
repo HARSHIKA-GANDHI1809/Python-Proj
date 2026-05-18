@@ -1,18 +1,20 @@
-# 🕒 Digital Clock
+## 📂 Project Structure
 
-A sleek, real-time Digital Clock built using Python and the Tkinter library. This application displays the current time, date, and day with a customizable graphical interface.
+Each tool or game is self-contained within this repository. Here is what is currently available:
 
-## ✨ Features
-* **Real-time Updates:** Time updates every second without lag.
-* **Date & Day Display:** Shows the full date and current day of the week.
-* **GUI Interface:** A clean windowed display rather than just terminal text.
+| Project Name | File Name | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Digital Clock** | `digital-clock.py` | A sleek desktop clock application with real-time updates. | Python (Tkinter) |
+| **Rock Paper Scissors** | `rock-paper-scissor.py` | An interactive text-based classic game played against the AI. | Python (Random) |
 
-## 🛠️ Installation
+---
 
+## 🛠️ Getting Started
+
+### Prerequisites
+Make sure you have [Python 3.x](https://www.python.org/) installed on your machine. Tkinter comes pre-installed with standard Python installations on Windows and macOS.
+
+### Installation
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/HARSHIKA-GANDHI1809/Python-Proj.git](https://github.com/HARSHIKA-GANDHI1809/Python-Proj.git)
-2.Navigate
-     cd Python-Proj
- 3.Usage
-   python clock.py
